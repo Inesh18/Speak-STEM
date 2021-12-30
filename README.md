@@ -8,7 +8,7 @@
 
 ## About
 
-Speak STEM is a student run group with the initiative of spreading education and bring STEM education to more places.
+peak STEM is a student-run project where there is a dedicated space to share ideas related to STEM. We want to provide a platform where other students who are invested in STEM can interact, learn more about certain topics, work on projects with others, and enhance their extracurricular experiences. We “Speak STEM” to Spread Awareness, Publish Work, Earn Respect and Recognition from others, Achieve Success in STEM, and Know Your Passions.
 
 ## What is this?
 
