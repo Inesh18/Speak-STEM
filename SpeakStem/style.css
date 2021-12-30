@@ -1,0 +1,29 @@
+body {
+    padding: 100;
+    margin: 100;
+    background: #f2f6e9;
+}
+.navbar {
+    background:#6ab446;
+}
+.nav-link,
+.navbar-brand {
+    color: rgb(252, 251, 255);
+    cursor: pointer;
+}
+.nav-link {
+    margin-right: 1em !important;
+}
+.nav-link:hover {
+    color: #000;
+}
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+.header {
+    background-image: url('images/image0.png');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
